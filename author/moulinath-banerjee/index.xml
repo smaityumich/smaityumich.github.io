@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SM</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>SM</description>
+    <title>Moulinath Banerjee | SM</title>
+    <link>/author/moulinath-banerjee/</link>
+      <atom:link href="/author/moulinath-banerjee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moulinath Banerjee</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>SM</title>
-      <link>/</link>
+      <title>Moulinath Banerjee</title>
+      <link>/author/moulinath-banerjee/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/maity-2020-minimax/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/maity-2020-minimax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>There is no trade-off: enforcing fairness can improve accuracy</title>
-      <link>/publication/maity-2020-there/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/maity-2020-there/</guid>
       <description></description>
     </item>
     

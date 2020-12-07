@@ -4,10 +4,67 @@
   
   <url>
     <loc>/publication-type/3/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/debarghya-mukherjee/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mikhail-yurochkin/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/maity-2020-minimax/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/moulinath-banerjee/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/subha-maity/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/maity-2020-there/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yuekai-sun/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/maity-2019-communication/</loc>
+    <lastmod>2020-12-07T11:45:45+05:30</lastmod>
   </url>
   
   <url>
@@ -19,23 +76,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
   </url>
   
   <url>
@@ -43,15 +84,7 @@
   </url>
   
   <url>
-    <loc>/author/subha-maity-debarghya-mukherjee-mikhail-yurochkin-yuekai-sun/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
   </url>
   
 </urlset>
