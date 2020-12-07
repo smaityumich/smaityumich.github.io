@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/publication-type/3/</loc>
   </url>
   
   <url>
@@ -31,11 +31,27 @@
   </url>
   
   <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
+  </url>
+  
+  <url>
     <loc>/author/subha-maity/</loc>
   </url>
   
   <url>
+    <loc>/author/subha-maity-debarghya-mukherjee-mikhail-yurochkin-yuekai-sun/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
   </url>
   
 </urlset>
