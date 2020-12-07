@@ -5,12 +5,36 @@
     <link>/author/subha-maity/</link>
       <atom:link href="/author/subha-maity/index.xml" rel="self" type="application/rss+xml" />
     <description>Subha Maity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Subha Maity</title>
       <link>/author/subha-maity/</link>
     </image>
+    
+    <item>
+      <title>Minimax optimal approaches to the label shift problem</title>
+      <link>/publication/maity-2020-minimax/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/maity-2020-minimax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>There is no trade-off: enforcing fairness can improve accuracy</title>
+      <link>/publication/maity-2020-there/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/maity-2020-there/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication-Efficient Integrative Regression in High-Dimensions</title>
+      <link>/publication/maity-2019-communication/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/maity-2019-communication/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
