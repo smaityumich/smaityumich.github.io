@@ -1,6 +1,6 @@
 ---
 title: "Subha Maity"
-subtitle: "PhD Student / Researcher / Assistant Professor"
+subtitle: "Assistant Professor"
 ---
 
 Welcome! I am a assistant professor in the department of Statistics and Actuarial Science at the University of Waterloo.
