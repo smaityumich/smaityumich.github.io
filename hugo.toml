@@ -1,0 +1,69 @@
+baseURL = "https://smaityumich.github.io/"
+languageCode = "en-us"
+title = "Subha Maity"
+theme = "beautifulhugo"
+enableRobotsTXT = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[Params]
+  subtitle = "Personal Website"
+  mainSections = ["post", "posts"]
+  logo = "/img/headshot.jpg"
+  favicon = "/img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  colorScheme = "auto"
+  readingTime = true
+  socialShare = false
+  showRelatedPosts = false
+  rss = true
+
+  [Params.search]
+    provider = "fuse"
+
+[Params.author]
+  name = "Subha Maity"
+  github = "smaityumich"
+  website = "https://smaityumich.github.io/"
+  googlescholar = "https://scholar.google.com/citations?user=eD9vCGMAAAAJ&hl=en"
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark.parser.attribute]
+  block = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menu.main]]
+  name = "About"
+  url = ""
+  weight = 1
+
+[[menu.main]]
+  name = "Research"
+  url = "research/"
+  weight = 2
+
+[[menu.main]]
+  name = "Publications"
+  url = "publications/"
+  weight = 3
+
+[[menu.main]]
+  name = "Teaching"
+  url = "teaching/"
+  weight = 4
+
+[[menu.main]]
+  name = "CV"
+  url = "cv/"
+  weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "contact/"
+  weight = 6
