@@ -6,9 +6,7 @@ subtitle: "Research interests and current projects"
 
 ## Current projects
 
-### Project 1
-
-Brief description of your project.
+** Descriptions incoming**
 
 
 ## Research Trainees

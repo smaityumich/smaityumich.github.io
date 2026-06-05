@@ -11,7 +11,7 @@ subtitle: "Curriculum Vitae"
 
 ## Positions
 
-- Assistant Professor, Department of Statistics and Actuarial Science, University of Waterloo, 2024-
+- Assistant Professor, Department of Statistics and Actuarial Science, University of Waterloo, 2024-present
 
 ## Grants
 
