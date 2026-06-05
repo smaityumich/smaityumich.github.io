@@ -16,7 +16,7 @@ title: "Publications"
 - Xu, M.(*), **Maity, S.**, & Dubin, J. (2025). Diagnosis-based mortality prediction for intensive care unit patients via transfer learning. (To be submitted to Canadian Journal of Statistics) [[preprint]](https://arxiv.org/abs/2512.06511me)
 - Bracale, D., **Maity, S.**, Banerjee, M., & Sun, Y. (2025). Learning the distribution map in reverse causal performative prediction. AISTAT. [[paper]](https://arxiv.org/abs/2405.15172)
 - Somerstep, S., Ritov, Y. A., Yurochkin, M., **Maity, S.**, & Sun, Y. (2025). Limitations of refinement methods for weak to strong generalization. COLM. [[paper]](https://arxiv.org/abs/2508.17018)
-- Bracale, D., Maity, S., Polo, F. M., Somerstep, S., Banerjee, M., & Sun, Y. (2025). Microfoundation inference for strategic prediction. AISTAT. [[paper]](https://arxiv.org/abs/2411.08998)
+- Bracale, D., **Maity, S.**, Polo, F. M., Somerstep, S., Banerjee, M., & Sun, Y. (2025). Microfoundation inference for strategic prediction. AISTAT. [[paper]](https://arxiv.org/abs/2411.08998)
 
 ## 2024
 
@@ -29,7 +29,7 @@ title: "Publications"
 
 - **Maity, S.**, Yurochkin, M., Banerjee, M., & Sun, Y. (2022). Understanding new tasks through the lens of training data via exponential tilting. ICLR. [[paper]](https://openreview.net/forum?id=DBMttEEoLbw) 
 - **Maity, S.**, Mukherjee, D., Banerjee, M., & Sun, Y. (2022). Predictor-corrector algorithms for stochastic optimization under gradual distribution shift. ICLR. [[paper]](https://openreview.net/forum?id=2SV2dlfBuE3)
-- **Ngweta, L.**, Maity, S., Gittens, A., Sun, Y., & Yurochkin, M. (2023). Simple disentanglement of style and content in visual representations. ICML. [[paper]](https://proceedings.mlr.press/v202/ngweta23a)
+- Ngweta, L., **Maity, S.**, Gittens, A., Sun, Y., & Yurochkin, M. (2023). Simple disentanglement of style and content in visual representations. ICML. [[paper]](https://proceedings.mlr.press/v202/ngweta23a)
 - Bakshi, S., & **Maity, S.** (2023). Bayes classifier cannot be learned from noisy responses with unknown noise rates. ICLR Tiny Paper. [[paper]](https://arxiv.org/abs/2304.06574)
   
 ## 2022

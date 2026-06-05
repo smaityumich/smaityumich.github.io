@@ -62,8 +62,3 @@ enableRobotsTXT = true
   name = "CV"
   url = "cv/"
   weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "contact/"
-  weight = 6

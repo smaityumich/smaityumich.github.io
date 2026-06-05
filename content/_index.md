@@ -17,4 +17,6 @@ My previous research has spanned a variety of topics in machine learning, includ
 
 To learn more about my research interests, please visit the `RESEARCH` and `PUBLICATIONS` pages. You can also find information about my teaching, CV, and contact details throughout this site.
 
-**Prospective Trainees:** I am currently seeking an *MMath student to begin in Fall 2026*, with an interest in conducting research as part of their Masters research paper and the possibility of continuing into our PhD program. I am also planning to recruit a *PhD student starting in Fall 2027*. If you are interested in working with me, please get in touch to discuss potential opportunities.
+<u>**Prospective Trainees:**</u> I am currently seeking an *MMath student to begin in Fall 2026*, with an interest in conducting research as part of their Masters research paper and the possibility of continuing into our PhD program. I am also planning to recruit a *PhD student starting in Fall 2027*. If you are interested in working with me, please get in touch to discuss potential opportunities.
+
+<u>**Get in touch:**</u> *Email:* ''smaity *at* uwaterloo *dot* ca''; *Office:* M3-4227, University of Waterloo

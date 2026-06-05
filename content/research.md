@@ -17,7 +17,7 @@ title: "Research"
 
 > <u>**Distribution shift:**</u> More broadly, I am interested in statistical methods for learning from data that are subject to distribution shift. Beyond transfer learning, my research interest includes areas such as integrative analysis, domain adaptation, performative prediction, etc. Selected works in these areas are listed below.
 > - Somerstep, S., Ritov, Y. A., Yurochkin, M., **Maity, S.**, & Sun, Y. (2025). Limitations of refinement methods for weak to strong generalization. COLM. [[paper]](https://arxiv.org/abs/2508.17018)
-> - Bracale, D., Maity, S., Polo, F. M., Somerstep, S., Banerjee, M., & Sun, Y. (2025). Microfoundation inference for strategic prediction. AISTAT. [[paper]](https://arxiv.org/abs/2411.08998)
+> - Bracale, D., **Maity, S.**, Polo, F. M., Somerstep, S., Banerjee, M., & Sun, Y. (2025). Microfoundation inference for strategic prediction. AISTAT. [[paper]](https://arxiv.org/abs/2411.08998)
 > - **Maity, S.**, Mukherjee, D., Banerjee, M., & Sun, Y. (2022). Predictor-corrector algorithms for stochastic optimization under gradual distribution shift. ICLR. [[paper]](https://openreview.net/forum?id=2SV2dlfBuE3)
 > - **Ngweta, L.**, Maity, S., Gittens, A., Sun, Y., & Yurochkin, M. (2023). Simple disentanglement of style and content in visual representations. ICML. [[paper]](https://proceedings.mlr.press/v202/ngweta23a)
 > - **Maity, S.**, Sun, Y., & Banerjee, M. (2022). Meta-analysis of heterogeneous data: integrative sparse regression in high-dimensions. Journal of Machine Learning Research, 23(198), 1-50. [[paper]](https://www.jmlr.org/papers/v23/21-0739.html)
