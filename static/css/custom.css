@@ -281,10 +281,6 @@ p a:focus {
 }
 
 /* Homepage */
-.home-main {
-  overflow: hidden;
-}
-
 .home-hero {
   background:
     radial-gradient(circle at 88% 18%, color-mix(in srgb, var(--site-gold-soft) 62%, transparent) 0, transparent 28rem),
