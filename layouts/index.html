@@ -1,0 +1,118 @@
+{{ define "header" }}{{ end }}
+
+{{ define "main" }}
+  <main id="main-content" class="home-main" role="main">
+    <section class="home-hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Statistics · Machine Learning · Transfer Learning</p>
+          <h1>Subha Maity</h1>
+          <p class="hero-role">Assistant Professor<br><span>Department of Statistics and Actuarial Science<br>University of Waterloo</span></p>
+          <p class="hero-summary">I develop statistical models and theory for learning reliably across populations, domains, and distribution shifts.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="{{ "research/" | relLangURL }}">Explore my research</a>
+            <a class="button button-secondary" href="{{ "cv/CV.pdf" | relURL }}">Download CV</a>
+          </div>
+          <div class="hero-links" aria-label="Academic profiles">
+            <a href="https://scholar.google.com/citations?user=eD9vCGMAAAAJ&hl=en">Google Scholar</a>
+            <a href="https://github.com/smaityumich">GitHub</a>
+            <a href="{{ "contact/" | relLangURL }}">Contact</a>
+          </div>
+        </div>
+        <figure class="hero-portrait">
+          <div class="portrait-frame">
+            <img src="{{ "img/headshot-portrait.webp" | relURL }}" alt="Portrait of Subha Maity" width="857" height="1100">
+          </div>
+          <figcaption>Working at the intersection of statistics and modern machine learning.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="section section-intro" aria-labelledby="about-heading">
+      <div class="container intro-grid">
+        <div>
+          <p class="section-kicker">About</p>
+          <h2 id="about-heading">Statistical foundations for learning in changing environments</h2>
+        </div>
+        <div class="intro-copy">
+          <p>My current work focuses on transfer learning and learning under distribution shift—how to borrow information across related datasets without losing reliability in the target population.</p>
+          <p>I received my PhD in Statistics from the University of Michigan, advised by <a href="https://yuekai.github.io/">Yuekai Sun</a> and <a href="https://dept.stat.lsa.umich.edu/~moulib/">Moulinath Banerjee</a>. Before that, I studied mathematics and statistics at the Indian Statistical Institute, Kolkata.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section research-focus" aria-labelledby="focus-heading">
+      <div class="container">
+        <div class="section-heading-row">
+          <div>
+            <p class="section-kicker">Research focus</p>
+            <h2 id="focus-heading">Methods that travel well</h2>
+          </div>
+          <a class="text-link" href="{{ "research/" | relLangURL }}">View research overview <span aria-hidden="true">→</span></a>
+        </div>
+        <div class="focus-grid">
+          <article class="focus-card">
+            <span class="focus-number" aria-hidden="true">01</span>
+            <h3>Transfer learning</h3>
+            <p>Principled methods for combining source and target data while quantifying the statistical cost of adaptation.</p>
+          </article>
+          <article class="focus-card">
+            <span class="focus-number" aria-hidden="true">02</span>
+            <h3>Distribution shift</h3>
+            <p>Prediction and inference when populations, labels, or strategic behavior change between training and deployment.</p>
+          </article>
+          <article class="focus-card">
+            <span class="focus-number" aria-hidden="true">03</span>
+            <h3>Reliable machine learning</h3>
+            <p>Statistical perspectives on fairness, weak supervision, routing, and the behavior of modern learning systems.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section home-work" aria-labelledby="work-heading">
+      <div class="container work-grid">
+        <div class="featured-work">
+          <div class="section-heading-row compact">
+            <div>
+              <p class="section-kicker">Recent work</p>
+              <h2 id="work-heading">Selected publications</h2>
+            </div>
+            <a class="text-link" href="{{ "publications/" | relLangURL }}">All publications <span aria-hidden="true">→</span></a>
+          </div>
+          <div class="featured-publications">
+            {{ range first 3 (where hugo.Data.publications "featured" true) }}
+              {{- $authors := replace .authors "S. Maity" "<strong>S. Maity</strong>" -}}
+              <article class="featured-publication">
+                <p class="publication-meta">{{ .year }} · {{ .venue }}</p>
+                <h3><a href="{{ .url }}">{{ .title }}</a></h3>
+                <p>{{ $authors | safeHTML }}</p>
+              </article>
+            {{ end }}
+          </div>
+        </div>
+
+        <aside class="trainee-callout" aria-labelledby="trainee-heading">
+          <p class="callout-label">Join the group</p>
+          <h2 id="trainee-heading">Prospective trainees</h2>
+          <p>I am seeking an MMath student to begin in Fall 2026 and plan to recruit a PhD student starting in Fall 2027.</p>
+          <p>If your interests connect statistics, machine learning, and distribution shift, I would be glad to hear from you.</p>
+          <a class="button button-light" href="{{ "contact/" | relLangURL }}">Get in touch</a>
+        </aside>
+      </div>
+    </section>
+
+    <section class="contact-band" aria-label="Contact information">
+      <div class="container contact-band-inner">
+        <div>
+          <p class="section-kicker">Contact</p>
+          <h2>Let’s discuss research and collaboration.</h2>
+        </div>
+        <div class="contact-details">
+          <p><span>Email</span>smaity [at] uwaterloo [dot] ca</p>
+          <p><span>Office</span>M3-4227 · University of Waterloo</p>
+        </div>
+      </div>
+    </section>
+  </main>
+{{ end }}

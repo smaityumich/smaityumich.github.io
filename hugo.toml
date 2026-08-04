@@ -1,5 +1,5 @@
 baseURL = "https://smaityumich.github.io/"
-languageCode = "en-us"
+locale = "en-US"
 title = "Subha Maity"
 theme = "beautifulhugo"
 enableRobotsTXT = true
@@ -9,19 +9,23 @@ enableRobotsTXT = true
     dir = ':cacheDir/images'
 
 [Params]
-  subtitle = "Personal Website"
+  subtitle = "Statistics, machine learning, and transfer learning"
+  description = "Subha Maity is an Assistant Professor at the University of Waterloo working on the statistical foundations of machine learning, transfer learning, and distribution shift."
   mainSections = ["post", "posts"]
   logo = "/img/headshot.jpg"
   favicon = "/img/favicon.ico"
+  images = ["/img/og-card.jpg"]
+  shareImage = "/img/og-card.jpg"
   dateFormat = "January 2, 2006"
-  colorScheme = "auto"
+  colorScheme = "light"
   readingTime = true
   socialShare = false
   showRelatedPosts = false
-  rss = true
+  rss = false
+  mathEngine = "none"
 
   [Params.search]
-    provider = "fuse"
+    provider = "none"
 
 [Params.author]
   name = "Subha Maity"
@@ -62,3 +66,8 @@ enableRobotsTXT = true
   name = "CV"
   url = "cv/"
   weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "contact/"
+  weight = 6

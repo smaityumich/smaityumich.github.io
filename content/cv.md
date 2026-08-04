@@ -1,7 +1,11 @@
 ---
 title: "CV"
 subtitle: "Curriculum Vitae"
+description: "Education, appointments, and selected grants for Subha Maity."
+toc: false
 ---
+
+[Download the complete CV (PDF)](/cv/CV.pdf)
 
 ## Education
 
@@ -11,9 +15,9 @@ subtitle: "Curriculum Vitae"
 
 ## Positions
 
-- Assistant Professor, Department of Statistics and Actuarial Science, University of Waterloo, 2024-present
+- Assistant Professor, Department of Statistics and Actuarial Science, University of Waterloo, 2024–present
 
 ## Grants
 
-- University of Waterloo Startup Grant (2024-2029): CAD 60,000
-- NSERC Discovery Grant (2026-2032): CAD 185,000 (with a supplement of CAD 12,500)
+- University of Waterloo Startup Grant (2024–2029): CAD 60,000
+- NSERC Discovery Grant (2026–2032): CAD 185,000, with a supplement of CAD 12,500

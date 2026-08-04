@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{- $pageClass := .File.TranslationBaseName | urlize -}}
+  <main id="main-content" class="page-shell" role="main">
+    <div class="container">
+      <article class="content-page page-{{ $pageClass }}">
+        {{ .Content }}
+      </article>
+    </div>
+  </main>
+{{ end }}

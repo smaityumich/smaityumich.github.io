@@ -1,0 +1,42 @@
+{{ define "main" }}
+  <main id="main-content" class="page-shell publications-shell" role="main">
+    <div class="container">
+      <div class="publications-intro">{{ .Content }}</div>
+      <nav class="publication-years" aria-label="Publication years">
+        {{ range (slice 2026 2025 2024 2023 2022 2021) }}
+          <a href="#year-{{ . }}">{{ if eq . 2026 }}2026+{{ else }}{{ . }}{{ end }}</a>
+        {{ end }}
+      </nav>
+
+      <div class="publication-groups">
+        {{ range (slice 2026 2025 2024 2023 2022 2021) }}
+          {{- $year := . -}}
+          {{- $items := where hugo.Data.publications "year" $year -}}
+          <section class="publication-year" id="year-{{ $year }}" aria-labelledby="year-{{ $year }}-title">
+            <header class="publication-year-header">
+              <h2 id="year-{{ $year }}-title">{{ if eq $year 2026 }}2026+{{ else }}{{ $year }}{{ end }}</h2>
+            </header>
+            <ol class="publication-list">
+              {{ range $items }}
+                {{- $authors := replace .authors "S. Maity" "<strong>S. Maity</strong>" -}}
+                <li class="publication-entry">
+                  <h3><a href="{{ .url }}">{{ .title }}</a></h3>
+                  <p class="publication-authors">{{ $authors | safeHTML }}</p>
+                  <p class="publication-citation">
+                    <span class="publication-venue">{{ .venue }}</span>
+                    <span aria-hidden="true"> · </span>
+                    <a href="{{ .url }}">{{ .link_label }} <span aria-hidden="true">↗</span></a>
+                    {{ if .trainee }}
+                      <span aria-hidden="true"> · </span>
+                      <span class="trainee-note">Trainee coauthor</span>
+                    {{ end }}
+                  </p>
+                </li>
+              {{ end }}
+            </ol>
+          </section>
+        {{ end }}
+      </div>
+    </div>
+  </main>
+{{ end }}

@@ -1,0 +1,159 @@
+- year: 2026
+  title: "The Statistical Cost of Adaptation in Multi-Source Transfer Learning"
+  authors: "A. Chakraborty and S. Maity"
+  venue: "Submitted to JMLR"
+  url: "https://arxiv.org/abs/2605.09471"
+  link_label: "Preprint"
+  featured: true
+
+- year: 2026
+  title: "Robust inference for risk heterogeneity under group imbalance"
+  authors: "M. Xu, S. Maity, and J. Dubin"
+  venue: "To be submitted to Biometrics"
+  url: "https://arxiv.org/abs/2606.00797"
+  link_label: "Preprint"
+  trainee: true
+
+- year: 2025
+  title: "Transfer Learning under Group-Label Shift: A Semiparametric Exponential Tilting Approach"
+  authors: "M. Cheng, S. Maity, Q. Tian, and P. Li"
+  venue: "Major revision, Scandinavian Journal of Statistics"
+  url: "https://arxiv.org/abs/2509.22268"
+  link_label: "Preprint"
+  trainee: true
+  featured: true
+
+- year: 2025
+  title: "Carrot: A cost-aware rate-optimal router"
+  authors: "S. Somerstep, F. M. Polo, A. F. M. de Oliveira, P. Mangal, M. Silva, O. Bhardwaj, M. Yurochkin, and S. Maity"
+  venue: "Major revision, Annals of Applied Statistics"
+  url: "https://arxiv.org/abs/2502.03261"
+  link_label: "Preprint"
+
+- year: 2025
+  title: "Diagnosis-based mortality prediction for intensive care unit patients via transfer learning"
+  authors: "M. Xu, S. Maity, and J. Dubin"
+  venue: "To be submitted to the Canadian Journal of Statistics"
+  url: "https://arxiv.org/abs/2512.06511"
+  link_label: "Preprint"
+  trainee: true
+
+- year: 2025
+  title: "Learning the distribution map in reverse causal performative prediction"
+  authors: "D. Bracale, S. Maity, M. Banerjee, and Y. Sun"
+  venue: "AISTATS 2025"
+  url: "https://arxiv.org/abs/2405.15172"
+  link_label: "Paper"
+
+- year: 2025
+  title: "Limitations of refinement methods for weak-to-strong generalization"
+  authors: "S. Somerstep, Y. A. Ritov, M. Yurochkin, S. Maity, and Y. Sun"
+  venue: "COLM 2025"
+  url: "https://arxiv.org/abs/2508.17018"
+  link_label: "Paper"
+
+- year: 2025
+  title: "Microfoundation inference for strategic prediction"
+  authors: "D. Bracale, S. Maity, F. M. Polo, S. Somerstep, M. Banerjee, and Y. Sun"
+  venue: "AISTATS 2025"
+  url: "https://arxiv.org/abs/2411.08998"
+  link_label: "Paper"
+
+- year: 2024
+  title: "A linear adjustment-based approach to posterior drift in transfer learning"
+  authors: "S. Maity, D. Dutta, J. Terhorst, Y. Sun, and M. Banerjee"
+  venue: "Biometrika 111(1), 31–50"
+  url: "https://doi.org/10.1093/biomet/asad029"
+  link_label: "Paper"
+  featured: true
+
+- year: 2024
+  title: "Weak supervision performance evaluation via partial identification"
+  authors: "F. Maia Polo, S. Maity, M. Yurochkin, M. Banerjee, and Y. Sun"
+  venue: "NeurIPS 2024"
+  url: "https://proceedings.neurips.cc/paper_files/paper/2024/file/f4c6bec746b0aca8c2cd15096f1ad1f-Paper-Conference.pdf"
+  link_label: "Paper"
+
+- year: 2024
+  title: "An investigation of representation and allocation harms in contrastive learning"
+  authors: "S. Maity, M. Agarwal, M. Yurochkin, and Y. Sun"
+  venue: "ICLR 2024"
+  url: "https://proceedings.iclr.cc/paper_files/paper/2024/file/80133d0f6eccaace15508f91e3c5a93c-Paper-Conference.pdf"
+  link_label: "Paper"
+
+- year: 2024
+  title: "Aligners: Decoupling LLMs and alignment"
+  authors: "L. Ngweta, M. Agarwal, S. Maity, A. Gittens, Y. Sun, and M. Yurochkin"
+  venue: "Findings of EMNLP 2024"
+  url: "https://aclanthology.org/2024.findings-emnlp.808/"
+  link_label: "Paper"
+
+- year: 2023
+  title: "Simple disentanglement of style and content in visual representations"
+  authors: "L. Ngweta, S. Maity, A. Gittens, Y. Sun, and M. Yurochkin"
+  venue: "ICML 2023"
+  url: "https://proceedings.mlr.press/v202/ngweta23a"
+  link_label: "Paper"
+
+- year: 2023
+  title: "Bayes classifier cannot be learned from noisy responses with unknown noise rates"
+  authors: "S. Bakshi and S. Maity"
+  venue: "ICLR Tiny Papers 2023"
+  url: "https://arxiv.org/abs/2304.06574"
+  link_label: "Paper"
+
+- year: 2022
+  title: "Understanding new tasks through the lens of training data via exponential tilting"
+  authors: "S. Maity, M. Yurochkin, M. Banerjee, and Y. Sun"
+  venue: "ICLR 2022"
+  url: "https://openreview.net/forum?id=DBMttEEoLbw"
+  link_label: "Paper"
+
+- year: 2022
+  title: "Predictor-corrector algorithms for stochastic optimization under gradual distribution shift"
+  authors: "S. Maity, D. Mukherjee, M. Banerjee, and Y. Sun"
+  venue: "ICLR 2022"
+  url: "https://openreview.net/forum?id=2SV2dlfBuE3"
+  link_label: "Paper"
+
+- year: 2022
+  title: "Minimax optimal approaches to the label shift problem in non-parametric settings"
+  authors: "S. Maity, Y. Sun, and M. Banerjee"
+  venue: "Journal of Machine Learning Research 23(346), 1–45"
+  url: "https://www.jmlr.org/papers/v23/21-1519.html"
+  link_label: "Paper"
+
+- year: 2022
+  title: "Meta-analysis of heterogeneous data: Integrative sparse regression in high dimensions"
+  authors: "S. Maity, Y. Sun, and M. Banerjee"
+  venue: "Journal of Machine Learning Research 23(198), 1–50"
+  url: "https://www.jmlr.org/papers/v23/21-0739.html"
+  link_label: "Paper"
+
+- year: 2022
+  title: "Role of multiresolution vulnerability indices in COVID-19 spread in India: A Bayesian model-based analysis"
+  authors: "R. Bhattacharyya, A. Burman, K. Singh, S. Banerjee, S. Maity, A. Auddy, S. K. Rout, S. Lahoti, R. Panda, and V. Baladandayuthapani"
+  venue: "BMJ Open 12(11)"
+  url: "https://bmjopen.bmj.com/content/12/11/e056292.abstract"
+  link_label: "Paper"
+
+- year: 2022
+  title: "RMExplorer: A visual analytics approach to explore the performance and fairness of disease risk models on population subgroups"
+  authors: "B. C. Kwon, U. Kartoun, S. Khurshid, M. Yurochkin, S. Maity, D. G. Brockman, A. V. Khera, P. T. Ellinor, S. A. Lubitz, and K. Ng"
+  venue: "IEEE VIS 2022"
+  url: "https://ieeexplore.ieee.org/abstract/document/9973226"
+  link_label: "Paper"
+
+- year: 2021
+  title: "Statistical inference for individual fairness"
+  authors: "S. Maity, S. Xue, M. Yurochkin, and Y. Sun"
+  venue: "ICLR 2021"
+  url: "https://openreview.net/forum?id=z9k8BWL-_2u"
+  link_label: "Paper"
+
+- year: 2021
+  title: "Does enforcing fairness mitigate biases caused by subpopulation shift?"
+  authors: "S. Maity, D. Mukherjee, M. Yurochkin, and Y. Sun"
+  venue: "NeurIPS 2021"
+  url: "https://proceedings.neurips.cc/paper_files/paper/2021/file/d800149d2f947ad4d64f34668f8b20f6-Paper.pdf"
+  link_label: "Paper"
