@@ -9,7 +9,6 @@ toc: false
 
 
 > **Transfer learning.** Transfer learning improves prediction and inference in data-scarce target domains by borrowing information from related source domains. It has emerged as a central topic in machine learning and statistics over the past decade. My research focuses on developing and understanding the statistical performance of transfer-learning models and methods for a variety of statistical tasks. Selected examples of this work are listed below.
-> - **Maity, S.** (2026). Efficient Inference for U-Statistic Targets under Subpopulation Shift. (Submitted to AISTATS 2027)
 > - Chakraborty, A., & **Maity, S.** (2026). The Statistical Cost of Adaptation in Multi-Source Transfer Learning. (Submitted to JMLR) [Preprint](https://arxiv.org/abs/2605.09471)
 > - Xu, M., **Maity, S.**, & Dubin, J. (2026). Robust inference for risk heterogeneity under group imbalance. (To be submitted to Statistics in Biosciences) [Preprint](https://arxiv.org/abs/2606.00797)
 > - Cheng, M., **Maity, S.**, Tian, Q., & Li, P. (2026). Transfer Learning under Group-Label Shift: A Semiparametric Exponential Tilting Approach. (Accepted, Scandinavian Journal of Statistics) [Preprint](https://arxiv.org/abs/2509.22268)
@@ -20,7 +19,6 @@ toc: false
 
 
 > **Distribution shift.** More broadly, I am interested in statistical methods for learning from data subject to distribution shift. Beyond transfer learning, this includes integrative analysis, domain adaptation, performative prediction, and algorithmic fairness. Selected works in these areas are listed below.
-> - Bracale, D., & **Maity, S.** (2026). Accuracy Is Not Identification: A Local Minimax Theory for Pretrained Model Libraries. (Submitted to AISTATS 2027)
 > - Roy, S., **Maity, S.**, Xue, S., Yurochkin, M., & Sun, Y. (2025). How does overparametrization affect performance on minority groups? Transactions on Machine Learning Research. [Paper](https://openreview.net/forum?id=POunezXgvF)
 > - Somerstep, S., Ritov, Y. A., Yurochkin, M., **Maity, S.**, & Sun, Y. (2025). Limitations of refinement methods for weak to strong generalization. COLM. [Paper](https://arxiv.org/abs/2508.17018)
 > - Bracale, D., Maia Polo, F., **Maity, S.**, Somerstep, S., Banerjee, M., & Sun, Y. (2025). Microfoundation inference for strategic prediction. AISTATS. [Paper](https://proceedings.mlr.press/v258/bracale25a.html)

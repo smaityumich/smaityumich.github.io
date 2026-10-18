@@ -1,14 +1,4 @@
 - year: 2026
-  title: "Efficient Inference for U-Statistic Targets under Subpopulation Shift"
-  authors: "S. Maity"
-  venue: "Submitted to AISTATS 2027"
-
-- year: 2026
-  title: "Accuracy Is Not Identification: A Local Minimax Theory for Pretrained Model Libraries"
-  authors: "D. Bracale and S. Maity"
-  venue: "Submitted to AISTATS 2027"
-
-- year: 2026
   title: "The Statistical Cost of Adaptation in Multi-Source Transfer Learning"
   authors: "A. Chakraborty and S. Maity"
   venue: "Submitted to JMLR"
