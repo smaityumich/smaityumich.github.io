@@ -20,12 +20,14 @@
               {{ range $items }}
                 {{- $authors := replace .authors "S. Maity" "<strong>S. Maity</strong>" -}}
                 <li class="publication-entry">
-                  <h3><a href="{{ .url }}">{{ .title }}</a></h3>
+                  <h3>{{ if .url }}<a href="{{ .url }}">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</h3>
                   <p class="publication-authors">{{ $authors | safeHTML }}</p>
                   <p class="publication-citation">
                     <span class="publication-venue">{{ .venue }}</span>
-                    <span aria-hidden="true"> · </span>
-                    <a href="{{ .url }}">{{ .link_label }} <span aria-hidden="true">↗</span></a>
+                    {{ if .url }}
+                      <span aria-hidden="true"> · </span>
+                      <a href="{{ .url }}">{{ .link_label }} <span aria-hidden="true">↗</span></a>
+                    {{ end }}
                     {{ if .trainee }}
                       <span aria-hidden="true"> · </span>
                       <span class="trainee-note">Trainee coauthor</span>

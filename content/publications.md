@@ -5,4 +5,4 @@ description: "Publications and preprints by Subha Maity in statistical machine l
 toc: false
 ---
 
-The list below includes peer-reviewed work and current preprints. Publications coauthored with supervised trainees are marked accordingly.
+The list below includes published and accepted papers, current preprints, and manuscripts under review. Publications coauthored with supervised trainees are marked accordingly.

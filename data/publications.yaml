@@ -1,4 +1,14 @@
 - year: 2026
+  title: "Efficient Inference for U-Statistic Targets under Subpopulation Shift"
+  authors: "S. Maity"
+  venue: "Submitted to AISTATS 2027"
+
+- year: 2026
+  title: "Accuracy Is Not Identification: A Local Minimax Theory for Pretrained Model Libraries"
+  authors: "D. Bracale and S. Maity"
+  venue: "Submitted to AISTATS 2027"
+
+- year: 2026
   title: "The Statistical Cost of Adaptation in Multi-Source Transfer Learning"
   authors: "A. Chakraborty and S. Maity"
   venue: "Submitted to JMLR"
@@ -9,40 +19,48 @@
 - year: 2026
   title: "Robust inference for risk heterogeneity under group imbalance"
   authors: "M. Xu, S. Maity, and J. Dubin"
-  venue: "To be submitted to Biometrics"
+  venue: "To be submitted to Bioscience"
   url: "https://arxiv.org/abs/2606.00797"
   link_label: "Preprint"
   trainee: true
 
-- year: 2025
+- year: 2026
   title: "Transfer Learning under Group-Label Shift: A Semiparametric Exponential Tilting Approach"
   authors: "M. Cheng, S. Maity, Q. Tian, and P. Li"
-  venue: "Major revision, Scandinavian Journal of Statistics"
+  venue: "Scandinavian Journal of Statistics, accepted"
   url: "https://arxiv.org/abs/2509.22268"
   link_label: "Preprint"
   trainee: true
   featured: true
 
-- year: 2025
-  title: "Carrot: A cost-aware rate-optimal router"
-  authors: "S. Somerstep, F. M. Polo, A. F. M. de Oliveira, P. Mangal, M. Silva, O. Bhardwaj, M. Yurochkin, and S. Maity"
-  venue: "Major revision, Annals of Applied Statistics"
+- year: 2026
+  title: "CARROT: A Cost Aware Rate Optimal Router"
+  authors: "S. Somerstep, F. Maia Polo, A. F. M. de Oliveira, P. Mangal, M. Silva, O. Bhardwaj, M. Yurochkin, and S. Maity"
+  venue: "Annals of Applied Statistics, accepted"
   url: "https://arxiv.org/abs/2502.03261"
   link_label: "Preprint"
+  featured: true
+
+- year: 2025
+  title: "How does overparametrization affect performance on minority groups?"
+  authors: "S. Roy, S. Maity, S. Xue, M. Yurochkin, and Y. Sun"
+  venue: "Transactions on Machine Learning Research"
+  url: "https://openreview.net/forum?id=POunezXgvF"
+  link_label: "Paper"
 
 - year: 2025
   title: "Diagnosis-based mortality prediction for intensive care unit patients via transfer learning"
   authors: "M. Xu, S. Maity, and J. Dubin"
-  venue: "To be submitted to the Canadian Journal of Statistics"
+  venue: "Under review at the Canadian Journal of Statistics"
   url: "https://arxiv.org/abs/2512.06511"
   link_label: "Preprint"
   trainee: true
 
 - year: 2025
   title: "Learning the distribution map in reverse causal performative prediction"
-  authors: "D. Bracale, S. Maity, M. Banerjee, and Y. Sun"
-  venue: "AISTATS 2025"
-  url: "https://arxiv.org/abs/2405.15172"
+  authors: "D. Bracale, S. Maity, Y. Sun, and M. Banerjee"
+  venue: "AISTATS 2025; Proceedings of Machine Learning Research 258, 973–981"
+  url: "https://proceedings.mlr.press/v258/bracale25b.html"
   link_label: "Paper"
 
 - year: 2025
@@ -54,9 +72,9 @@
 
 - year: 2025
   title: "Microfoundation inference for strategic prediction"
-  authors: "D. Bracale, S. Maity, F. M. Polo, S. Somerstep, M. Banerjee, and Y. Sun"
-  venue: "AISTATS 2025"
-  url: "https://arxiv.org/abs/2411.08998"
+  authors: "D. Bracale, F. Maia Polo, S. Maity, S. Somerstep, M. Banerjee, and Y. Sun"
+  venue: "AISTATS 2025; Proceedings of Machine Learning Research 258, 919–927"
+  url: "https://proceedings.mlr.press/v258/bracale25a.html"
   link_label: "Paper"
 
 - year: 2024
@@ -65,13 +83,12 @@
   venue: "Biometrika 111(1), 31–50"
   url: "https://doi.org/10.1093/biomet/asad029"
   link_label: "Paper"
-  featured: true
 
 - year: 2024
   title: "Weak supervision performance evaluation via partial identification"
   authors: "F. Maia Polo, S. Maity, M. Yurochkin, M. Banerjee, and Y. Sun"
   venue: "NeurIPS 2024"
-  url: "https://proceedings.neurips.cc/paper_files/paper/2024/file/f4c6bec746b0aca8c2cd15096f1ad1f-Paper-Conference.pdf"
+  url: "https://proceedings.neurips.cc/paper_files/paper/2024/hash/f4c6bec746b0aeca8c2cd15096f1ad1f-Abstract-Conference.html"
   link_label: "Paper"
 
 - year: 2024
@@ -92,7 +109,7 @@
   title: "Simple disentanglement of style and content in visual representations"
   authors: "L. Ngweta, S. Maity, A. Gittens, Y. Sun, and M. Yurochkin"
   venue: "ICML 2023"
-  url: "https://proceedings.mlr.press/v202/ngweta23a"
+  url: "https://proceedings.mlr.press/v202/ngweta23a.html"
   link_label: "Paper"
 
 - year: 2023
@@ -102,17 +119,17 @@
   url: "https://arxiv.org/abs/2304.06574"
   link_label: "Paper"
 
-- year: 2022
+- year: 2023
   title: "Understanding new tasks through the lens of training data via exponential tilting"
   authors: "S. Maity, M. Yurochkin, M. Banerjee, and Y. Sun"
-  venue: "ICLR 2022"
+  venue: "ICLR 2023"
   url: "https://openreview.net/forum?id=DBMttEEoLbw"
   link_label: "Paper"
 
-- year: 2022
+- year: 2023
   title: "Predictor-corrector algorithms for stochastic optimization under gradual distribution shift"
   authors: "S. Maity, D. Mukherjee, M. Banerjee, and Y. Sun"
-  venue: "ICLR 2022"
+  venue: "ICLR 2023"
   url: "https://openreview.net/forum?id=2SV2dlfBuE3"
   link_label: "Paper"
 
@@ -141,7 +158,7 @@
   title: "RMExplorer: A visual analytics approach to explore the performance and fairness of disease risk models on population subgroups"
   authors: "B. C. Kwon, U. Kartoun, S. Khurshid, M. Yurochkin, S. Maity, D. G. Brockman, A. V. Khera, P. T. Ellinor, S. A. Lubitz, and K. Ng"
   venue: "IEEE VIS 2022"
-  url: "https://ieeexplore.ieee.org/abstract/document/9973226"
+  url: "https://doi.org/10.1109/VIS54862.2022.00019"
   link_label: "Paper"
 
 - year: 2021

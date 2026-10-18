@@ -84,7 +84,7 @@
               {{- $authors := replace .authors "S. Maity" "<strong>S. Maity</strong>" -}}
               <article class="featured-publication">
                 <p class="publication-meta">{{ .year }} · {{ .venue }}</p>
-                <h3><a href="{{ .url }}">{{ .title }}</a></h3>
+                <h3>{{ if .url }}<a href="{{ .url }}">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</h3>
                 <p>{{ $authors | safeHTML }}</p>
               </article>
             {{ end }}
