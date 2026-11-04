@@ -1,4 +1,9 @@
 - year: 2026
+  title: "Doubly Robust Estimation and Inference for Heterogeneous Treatment Effects with Interval-Censored Outcomes"
+  authors: "Y. Xu and S. Maity"
+  venue: "Submitted to the Journal of the American Statistical Association: Theory and Methods"
+
+- year: 2026
   title: "The Statistical Cost of Adaptation in Multi-Source Transfer Learning"
   authors: "A. Chakraborty and S. Maity"
   venue: "Submitted to JMLR"
